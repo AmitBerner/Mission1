@@ -1,0 +1,24 @@
+{
+  "name": "mission1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Resolution1.js",
+  "dependencies": {
+    "node-cron": "^1.1.2",
+    "twitch-api": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriggerMaker/Mission1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriggerMaker/Mission1/issues"
+  },
+  "homepage": "https://github.com/TriggerMaker/Mission1#readme"
+}
